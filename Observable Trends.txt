@@ -1,0 +1,23 @@
+Jen Mahon
+Pandas Challenge
+Heroes Of Pymoli homework
+
+3 observable trends based on the data
+
+1) Men are by far the most prevalent of players of Heroes of Pymoli, taking up 84% of the player population. 
+However, female & non-disclosed gender players spend more on average on optional purchases. 
+Maketing and sales should primarily focus on male based interests to increase their optional purchase sales revenue.
+But don't forget about the ladies & non-disclosed because they're out there and willing to spend! 
+A marketing push for more female players and optional purchases that appeal to that gender group may see an increased player count and revenue overall.
+
+2) Close to 45% of players are in the 20-24 age range, however, those in the 35-39 age range tend to spend more on average. 
+While it makes sense to continue to market to potential players in the 20-24 age range group, add on purchases catering to those in the 35-39 range may get you more revenue. 
+Interestingly, the under 10 age range group is a close second to highest average purchase at $4.54/person vs the 35-39 age range at $4.76/person. 
+I don't feel good about marketing viedo games to children under 10, but their parents seem to be on board with the additional purchases so it's worth a look into that demographic.
+
+3) Final Critic, Oathbreaker & Fiery Glass Crusader are your most popular, and your most profitable sellable items. Continue to push these items to your users!
+Nirvana and Singed Scalpel are in your top 5 most profitable items, but are not the most popular purchase items you have. An advertising push onthese add ons may bring in more revenue.
+
+
+
+
